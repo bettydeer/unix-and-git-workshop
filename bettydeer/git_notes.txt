@@ -1,0 +1,22 @@
+git clone [url] clones a project to the current directory
+
+git init [projectname] creates an empty local file with that project name
+
+git branch --lists all local branches in current repository
+
+git branch [branch-name] creates a new branch
+
+git status --lists all new or modified files to be committed
+
+git add [file] stages file to be committed
+
+git commit -m "message about commit" --commits currently staged files to version history
+
+git log --lists version history for current branch
+
+git merge --be in the receiving branch and merge into it from another
+
+git push --uploads local commits to GitHub
+
+git pull --pull from GitHub and integrates changes/updates
+
